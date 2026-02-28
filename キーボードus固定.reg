@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\デバイスインスタンスパス\Device Parameters]
+"KeyboardTypeOverride"=dword:00000004
+"KeyboardSubtypeOverride"=dword:00000000
+"OverrideKeyboardType"=dword:00000004
+"OverrideKeyboardSubtype"=dword:00000000
